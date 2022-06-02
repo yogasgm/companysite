@@ -325,7 +325,7 @@ body {
 	font-family: 'Montserrat';
 	display: inline-block;
   height: 38px;
-  padding: 0 30px;
+  padding: 0 10px;
   text-align: center;
   font-size: 12px;
   font-weight: 600;
@@ -556,6 +556,7 @@ body {
 
 .flex-split {
 	padding: 100px 0;
+	background: #f6f6fd;
 }
 
 .flex-intro {
