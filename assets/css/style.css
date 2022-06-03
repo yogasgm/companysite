@@ -1295,7 +1295,7 @@ body {
 
 
 .cta-sm {
-	padding: 100px 0 100px 0;
+	padding: 100px 0 50px 0;
 	background: rgba(30, 166, 154, 0.1);
 	background: #f8faff;
 	background: #f6f6fd;
@@ -1435,7 +1435,7 @@ body {
 .form-note p {
 	font-size: 12px;
 	font-weight: 500;
-	color: #97a6b5
+	color: #97a6b5;
 }
 
 
